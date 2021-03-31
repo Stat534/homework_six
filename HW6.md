@@ -1,4 +1,4 @@
-HW5
+HW 6
 ================
 
 This is the second of a two - part homework. For HW 6, again use the
